@@ -1,0 +1,3 @@
+[submodule "modules/sec-filer"]
+	path = modules/sec-filer
+	url = https://github.com/carconper/sec-filer.git
